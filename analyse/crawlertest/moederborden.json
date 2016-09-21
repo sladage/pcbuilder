@@ -1,0 +1,5229 @@
+[
+  {
+    "name": "ALTERNATE Upgrade Kit GA-B85M-HD3 R4 / i5-4460 / 8 GB",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 299.0,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Moederbord",
+      "CPU",
+      "Geheugen"
+    ]
+  },
+  {
+    "name": "ALTERNATE Upgrade Kit GA-H110M-S2H / i3-6100 / 8 GB",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 214.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Moederbord",
+      "CPU",
+      "Geheugen"
+    ]
+  },
+  {
+    "name": "ALTERNATE Upgrade Kit MAXIMUS VIII RANGER / i7 6700K / 8 GB",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 579.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "Moederbord",
+      "CPU",
+      "Geheugen"
+    ]
+  },
+  {
+    "name": "ALTERNATE Upgrade Kit MSI B150M BAZOOKA / i5 6400 / 8 GB",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 299.0,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Moederbord",
+      "CPU",
+      "Geheugen"
+    ]
+  },
+  {
+    "name": "ALTERNATE Upgrade Kit MSI Z170A GAMING M5 / i5 6600K / 8 GB",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 479.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "Moederbord",
+      "CPU",
+      "Geheugen"
+    ]
+  },
+  {
+    "name": "ALTERNATE Upgrade Kit MSI X99A RAIDER / i7 6800K / 32 GB",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 829.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "Moederbord",
+      "CPU",
+      "Geheugen"
+    ]
+  },
+  {
+    "name": "ASRock C2550D4I moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "Geïntegreerd",
+    "price": 349.0,
+    "keywords": [
+      "onboard",
+      "CPU",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock C2750D4I moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "Geïntegreerd",
+    "price": 499.0,
+    "keywords": [
+      "onboard",
+      "CPU",
+      "Gb-LAN",
+      "VGA",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock E3C236D4U moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 269.0,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock N3150B-ITX moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "",
+    "price": 82.9,
+    "keywords": [
+      "onboard",
+      "GB-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock N3700M moederbord",
+    "formFactor": "µATX",
+    "socket": "",
+    "price": 112.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock Q1900-ITX moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "Geïntegreerd",
+    "price": 82.9,
+    "keywords": [
+      "onboard",
+      "CPU",
+      "Gb-LAN",
+      "VGA",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock Q1900M moederbord",
+    "formFactor": "µATX",
+    "socket": "",
+    "price": 63.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "CPU",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock Q1900M Pro3 moederbord",
+    "formFactor": "µATX",
+    "socket": "",
+    "price": 78.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "CPU",
+      "Gb-LAN",
+      "VGA",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock Q1900TM-ITX moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "",
+    "price": 104.9,
+    "keywords": [
+      "onboard",
+      "CPU",
+      "Gb-LAN",
+      "VGA",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock B85 Pro4, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 78.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "ASRock B85M Pro3, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 58.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock B85M Pro4, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 69.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "ASRock B85M-DGS, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 56.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock B85M-HDS R2.0, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 61.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock C226 WS, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 249.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock C226M WS, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 199.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock E3C224-4L, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 229.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "AST2300",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock E3C224-V+, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 184.9,
+    "keywords": [
+      "onboard",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock E3C224D4I-14S, socket 1150 moederbord",
+    "formFactor": "Extended Mini-ITX",
+    "socket": "1150",
+    "price": 349.0,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Extended Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock E3C226D2I, socket 1150 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1150",
+    "price": 237.9,
+    "keywords": [
+      "onboard",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty Z97 Killer, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 124.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty Z97X Killer/3.1, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 179.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "ASRock H81M, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 64.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H81M-DGS R2.0, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 49.99,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H81M-GL, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 52.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H81M-HDS R2.0, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 49.99,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H81M-ITX, socket 1150 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1150",
+    "price": 67.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "Mini ITX"
+    ]
+  },
+  {
+    "name": "ASRock H81M-VG4 R2.0, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 42.99,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H81TM-ITX R2.0, socket 1150 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1150",
+    "price": 79.9,
+    "keywords": [
+      "onboard",
+      "Gb-LAN",
+      "Sound",
+      "Thin Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock H97 Pro4, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 93.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock H97M-ITX/ac, socket 1150 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1150",
+    "price": 107.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock Z97 Anniversary, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 84.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z97 Pro3, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 102.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock B150 Gaming K4, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 117.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock B150 Pro4/3.1, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 97.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock B150A-X1, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 94.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock B150M PRO4, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 88.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock B150M Pro4S, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 78.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock B150M Pro4S/D3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 71.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock B150M PRO4V                    , socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 82.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock B150M-Combo-G, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 79.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock B150M-HDS, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 61.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock B150M-HDV, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 76.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock B150M-ITX, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 91.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock C236 WSI, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 254.0,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Dual-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock E3V5 WS, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 122.9,
+    "keywords": [
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock E3V5 WS, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 142.9,
+    "keywords": [
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty B150 Gaming K4/Hyper, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 132.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty H170 Performance, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 127.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty H170 Performance/Hyper, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 137.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty Z170 Gaming K4, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 129.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty Z170 Gaming K4/D3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 142.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty Z170 Gaming K6+, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 209.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty Z170 Gaming K6, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 177.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty Z170 Gaming-ITX/ac, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 189.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty Z170 Professional Gaming i7, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 217.9,
+    "keywords": [
+      "onboard",
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock H110M Combo-G, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 77.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H110M-DGS, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 56.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H110M-DVS R2.0, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 59.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H110M-DVS-D3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 61.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H110M-HDS, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 56.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H110M-HDV, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 63.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H110M-ITX, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 81.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock H110M-ITX/ac, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 81.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock H170 Pro4, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 112.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock H170 Pro4/D3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 83.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock H170 Pro4/Hyper, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 124.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock H170 Pro4S, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 102.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock H170A-X1/3.1, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 91.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock H170M Pro4, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 102.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H170M Pro4S, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 91.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock H170M-ITX/ac, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 109.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock H170M-ITX/DL, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 99.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock Q170M vPro, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 144.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170 Extreme3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 137.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170 Extreme4+, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 172.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170 Extreme4, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 139.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170 Extreme6+, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 212.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170 Extreme6, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 189.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170 Extreme7+, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 249.9,
+    "keywords": [
+      "onboard",
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170 OC FORMULA, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 242.9,
+    "keywords": [
+      "onboard",
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170 Pro4, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 127.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170 Pro4/D3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 109.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170 Pro4S, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 117.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170A-X1, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 112.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170A-X1/3.1, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 122.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170M Extreme4, socket 1151 moederbord",
+    "formFactor": "Flex ATX",
+    "socket": "1151",
+    "price": 137.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170M Pro4S, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 114.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock Z170M-ITX/ac, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 142.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock C216 WS, socket 1155 moederbord",
+    "formFactor": "ATX",
+    "socket": "1155",
+    "price": 219.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock EP2C602, socket 2011 moederbord",
+    "formFactor": "SSI-EEB",
+    "socket": "2011",
+    "price": 329.0,
+    "keywords": [
+      "onboard",
+      "5x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "AST2300",
+      "SSI-EEB"
+    ]
+  },
+  {
+    "name": "ASRock EP2C612D8-2T8R, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 719.0,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "Dual",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock EPC612D4U, socket 2011-3 moederbord",
+    "formFactor": "µATX",
+    "socket": "2011-3",
+    "price": 344.0,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock EPC612D8A, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 349.0,
+    "keywords": [
+      "onboard",
+      "4x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock EPC612D8A-TB, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 384.0,
+    "keywords": [
+      "onboard",
+      "4x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty X99 Professional Gaming i7, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 329.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "WLAN",
+      "2x Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty X99 Professional/3.1, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 429.0,
+    "keywords": [
+      "5x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty X99M Killer, socket 2011-3 moederbord",
+    "formFactor": "µATX",
+    "socket": "2011-3",
+    "price": 259.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock Fatal1ty X99X Killer/3.1, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 304.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock X99 Extreme3, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 229.9,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock X99 Extreme4/3.1, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 254.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "ASRock X99 Extreme6, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 269.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASRock X99 OC Formula, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 359.0,
+    "keywords": [
+      "5x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "ASRock X99 TAICHI, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 284.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      ""
+    ]
+  },
+  {
+    "name": "ASRock X99 WS, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 349.0,
+    "keywords": [
+      "6x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "ASRock X99 WS-E, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 539.0,
+    "keywords": [
+      "7x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "ASRock X99 WS-E/10G, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 749.0,
+    "keywords": [
+      "7x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "ASRock X99E-ITX/ac, socket 2011-3 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "2011-3",
+    "price": 339.0,
+    "keywords": [
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASRock X99M Extreme4, socket 2011-3 moederbord",
+    "formFactor": "µATX",
+    "socket": "2011-3",
+    "price": 229.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASRock G41M-VS3 R2.0, socket 775 moederbord",
+    "formFactor": "µATX",
+    "socket": "775",
+    "price": 74.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "LAN",
+      "VGA",
+      "Sound",
+      "µATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "ASUS J1800I-A moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "Geïntegreerd",
+    "price": 87.9,
+    "keywords": [
+      "onboard",
+      "CPU",
+      "Gb-LAN",
+      "VGA",
+      "Sound",
+      "Mini ITX"
+    ]
+  },
+  {
+    "name": "ASUS J1800I-C moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "",
+    "price": 82.9,
+    "keywords": [
+      "onboard",
+      "CPU",
+      "Gb-LAN",
+      "VGA",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASUS N3050M-E moederbord",
+    "formFactor": "µATX",
+    "socket": "",
+    "price": 76.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "CPU",
+      "Gb-LAN",
+      "Sound",
+      "VGA",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS N3150M-E moederbord",
+    "formFactor": "µATX",
+    "socket": "",
+    "price": 88.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "CPU",
+      "Gb-LAN",
+      "Sound",
+      "VGA",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS B85-PRO GAMER, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 109.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS B85M-E, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 78.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µAXT",
+      "Retail"
+    ]
+  },
+  {
+    "name": "ASUS B85M-G, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 78.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "ASUS B85M-GAMER, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 86.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS H81-GAMER, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 94.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS H81-PLUS, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 73.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS H81I-PLUS, socket 1150 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1150",
+    "price": 82.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "Mini ITX"
+    ]
+  },
+  {
+    "name": "ASUS H81M-A, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 57.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS H81M-C, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 58.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS H81M-K, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 57.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "ASUS H81M-PLUS, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 61.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS Q87M-E, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 152.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS SABERTOOTH Z97 MARK 1/USB 3.1, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 254.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "ASUS TROOPER B85, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 81.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS VANGUARD B85, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 104.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS Z97-A, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 157.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z97-K, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 114.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z97-K/USB3.1, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 147.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "ASUS Z97-P, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 102.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z97M-PLUS, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 137.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS B150 PRO GAMING, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 127.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS B150 PRO GAMING/AURA , socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 132.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS B150-PRO D3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 102.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      ""
+    ]
+  },
+  {
+    "name": "ASUS B150I PRO GAMING/AURA, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 107.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASUS B150I PRO GAMING/WIFI/AURA, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 127.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "WLAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASUS B150M PRO GAMING, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 91.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      ""
+    ]
+  },
+  {
+    "name": "ASUS B150M-A D3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 81.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS B150M-A/M.2, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 86.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS B150M-C D3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 88.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS B150M-C, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 91.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS B150M-K D3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 76.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS B150M-K, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 74.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS B150M-PLUS B150, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 92.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      ""
+    ]
+  },
+  {
+    "name": "ASUS B150M-PLUS D3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 91.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS E3 PRO GAMING V5, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 149.9,
+    "keywords": [
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS H110I-Plus, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 79.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      ""
+    ]
+  },
+  {
+    "name": "ASUS H110M-A D3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 66.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS H110M-A/M.2, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 71.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      ""
+    ]
+  },
+  {
+    "name": "ASUS H110M-C, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 68.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS H110M-D, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 66.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS H110M-K, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 61.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS H110M-PLUS D3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 68.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS H110T, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 89.9,
+    "keywords": [
+      "onboard",
+      "2x Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASUS H170 PRO GAMING, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 139.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS H170-PLUS D3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 114.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS H170-PRO, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 119.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS H170I-PRO, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 132.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASUS H170M-E D3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 102.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS H170M-PLUS, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 104.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS MAXIMUS VIII EXTREME, socket 1151 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "1151",
+    "price": 424.0,
+    "keywords": [
+      "onboard",
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "ASUS MAXIMUS VIII GENE, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 217.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS MAXIMUS VIII HERO ALPHA, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 299.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS MAXIMUS VIII HERO, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 219.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS MAXIMUS VIII IMPACT, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 242.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASUS MAXIMUS VIII RANGER, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 184.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS P10S WS, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 264.0,
+    "keywords": [
+      "onboard",
+      "4x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "2x Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS P10S-M WS, socket 1151 moederbord",
+    "formFactor": "",
+    "socket": "1151",
+    "price": 244.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "2x Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS Q170M-C, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 149.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS Q170T, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 162.9,
+    "keywords": [
+      "onboard",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASUS ROG MAXIMUS VIII FORMULA, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 364.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS SABERTOOTH Z170 MARK 1, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 264.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS SABERTOOTH Z170 S, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 212.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z170 PRO GAMING, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 154.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z170 PRO GAMING/AURA, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 174.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      ""
+    ]
+  },
+  {
+    "name": "ASUS Z170-A, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 154.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z170-DELUXE, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 309.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z170-E Z170, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 152.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "Gb-LAN",
+      "Sound",
+      "SLI/Crossfire",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z170-K, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 139.9,
+    "keywords": [
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z170-P D3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 112.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z170-P, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 124.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      ""
+    ]
+  },
+  {
+    "name": "ASUS Z170-PRO, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 177.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z170I PRO GAMING, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 159.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "ASUS Z170M-PLUS, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 132.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS RAMPAGE V EDITION 10            X99, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 639.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "Zwart"
+    ]
+  },
+  {
+    "name": "ASUS RAMPAGE V EXTREME/U3.1, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 509.0,
+    "keywords": [
+      "5x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "ASUS ROG Strix X99 Gaming, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 329.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "BT",
+      "WLAN",
+      "Gb-LAN",
+      "USB-C",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS SABERTOOTH X99, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 379.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "ASUS X99 WS/IPMI, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 459.0,
+    "keywords": [
+      "5x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      ""
+    ]
+  },
+  {
+    "name": "ASUS X99-A II, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 294.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "Gb-LAN",
+      "USB-C",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS X99-A/USB 3.1, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 299.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "ASUS X99-DELUXE II, socket 2011-3 moederbord",
+    "formFactor": "",
+    "socket": "2011-3",
+    "price": 449.0,
+    "keywords": [
+      "5x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "WLAN",
+      "Gb-LAN",
+      "USB-C",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS X99-DELUXE/U3.1, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 424.0,
+    "keywords": [
+      "5x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "ASUS X99-E WS, socket 2011-3 moederbord",
+    "formFactor": "SSI-CEB",
+    "socket": "2011-3",
+    "price": 519.0,
+    "keywords": [
+      "7x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "SSI-CEB"
+    ]
+  },
+  {
+    "name": "ASUS X99-E WS/USB 3.1, socket 2011-3 moederbord",
+    "formFactor": "SSI-CEB",
+    "socket": "2011-3",
+    "price": 549.0,
+    "keywords": [
+      "7x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "2x Gb-LAN",
+      "Sound",
+      "SSI-CEB"
+    ]
+  },
+  {
+    "name": "ASUS X99-E, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 254.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      ""
+    ]
+  },
+  {
+    "name": "ASUS X99-M WS, socket 2011-3 moederbord",
+    "formFactor": "µATX",
+    "socket": "2011-3",
+    "price": 309.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "ASUS X99-PRO/USB 3.1, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 374.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "ASUS Z10PA-D8, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 369.0,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "Dual",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z10PA-U8, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 319.0,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z10PE-D16 WS, socket 2011-3 moederbord",
+    "formFactor": "SSI-EEB",
+    "socket": "2011-3",
+    "price": 549.0,
+    "keywords": [
+      "onboard",
+      "6x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "Dual",
+      "RAID",
+      "Gb-LAN",
+      "SSI-EEB"
+    ]
+  },
+  {
+    "name": "ASUS Z10PE-D16, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 499.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "Dual",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "ASUS Z10PE-D16/4L, socket 2011-3 moederbord",
+    "formFactor": "SSI-EEB",
+    "socket": "2011-3",
+    "price": 569.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "Dual",
+      "RAID",
+      "4x Gb-LAN",
+      "VGA",
+      "SSI-EEB"
+    ]
+  },
+  {
+    "name": "ASUS Z10PR-D16, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 474.0,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Dual",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-J1900N-D2H \t(rev. 1.1) moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "Geïntegreerd",
+    "price": 84.9,
+    "keywords": [
+      "onboard",
+      "CPU",
+      "Gb-LAN",
+      "VGA",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-J1900N-D3V moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "Geïntegreerd",
+    "price": 107.9,
+    "keywords": [
+      "onboard",
+      "CPU",
+      "Gb-LAN",
+      "VGA",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "GIGABYTE G1.Sniper B6 (rev. 1.0), socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 69.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B85-HD3-A, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 88.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B85M-D2V (rev. 2.0), socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 49.99,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B85M-DS3H-A, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 76.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B85M-HD3 R4, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 59.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B85TN, socket 1150 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1150",
+    "price": 99.9,
+    "keywords": [
+      "onboard",
+      "Gb-LAN",
+      "Sound",
+      "Thin Mini-ITX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H81M-D2V (rev 1.0), socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 57.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H81M-HD3 (rev. 1.0), socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 53.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H81M-S2H, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 47.99,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H81M-S2PV (rev. 1.0), socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 52.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H97-HD3, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 94.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H97M-D3H, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 99.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H97M-HD3, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 96.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H97N-WIFI, socket 1150 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1150",
+    "price": 127.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Q87M-D2H, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 149.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z97-HD3, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 107.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z97P-D3, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 88.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z97X-Gaming 3, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 119.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE G1.Sniper B7, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 99.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B150-HD3P, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 86.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B150M-D2V, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 71.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B150M-D3H DDR3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 88.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B150M-D3H, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 84.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B150M-DS3H DDR3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 74.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B150M-DS3H, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 81.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B150M-DS3P, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 96.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B150M-HD3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 78.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-B150N Phoenix-WIFI, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 107.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H110M-DS2 DDR3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 57.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H110M-DS2, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 62.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H110M-H, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 56.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H110M-S2H DDR3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 66.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H110M-S2H, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 57.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H110M-S2HP, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 71.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H110M-S2PV DDR3, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 63.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H110M-S2PV, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 67.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H170-D3HP, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 127.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H170-HD3 DDR3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 107.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H170-HD3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 107.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H170M-D3H, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 109.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-H170N-WIFI, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 134.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Q170M-D3H, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 154.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X150-PLUS WS, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 127.9,
+    "keywords": [
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X150-PRO ECC, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 169.9,
+    "keywords": [
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X150M-PRO ECC, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 124.9,
+    "keywords": [
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X170-Extreme ECC, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 254.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X170-WS ECC, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 247.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "GB-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170-Gaming K3-EU, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 124.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170-HD3P, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 119.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170M-D3H, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 132.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170MX-Gaming 5, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 184.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170N-WIFI, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 139.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170X-Designare, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 239.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170X-Gaming 3-EU, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 152.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170X-Gaming 5-EU, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 182.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170X-Gaming 7, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 247.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "2x Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170X-Gaming G1, socket 1151 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "1151",
+    "price": 539.0,
+    "keywords": [
+      "onboard",
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170X-SOC FORCE, socket 1151 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "1151",
+    "price": 439.0,
+    "keywords": [
+      "onboard",
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170X-UD3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 159.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170X-UD5 TH, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 212.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170X-Ultra Gaming, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 182.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-Z170XP-SLI, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 144.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X99-Designare EX, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 484.0,
+    "keywords": [
+      "5x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      ""
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X99-Gaming 5P (rev. 1.0), socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 284.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X99-SLI (rev. 1.0), socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 229.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X99-UD3 (rev. 1.0), socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 227.9,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X99-Ultra Gaming, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 309.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "RGB LEDs"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-X99M-Gaming 5, socket 2011-3 moederbord",
+    "formFactor": "µATX",
+    "socket": "2011-3",
+    "price": 234.9,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "GIGABYTE GA-G41M-Combo (rev. 2.0), socket 775 moederbord",
+    "formFactor": "µATX",
+    "socket": "775",
+    "price": 66.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "VGA",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "Intel® Galileo Gen 2 incl. Intel Quark X1000 moederbord",
+    "formFactor": "Proprietary",
+    "socket": "",
+    "price": 76.9,
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Intel® Server Board S2600WT2, socket 2011-3 moederbord",
+    "formFactor": "Proprietary",
+    "socket": "2011-3",
+    "price": 469.0,
+    "keywords": [
+      "onboard",
+      "DUAL",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      ""
+    ]
+  },
+  {
+    "name": "MSI N3050I ECO moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "",
+    "price": 77.9,
+    "keywords": [
+      "onboard",
+      "CPU",
+      "GB-LAN",
+      "Sound",
+      "VGA",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "MSI N3150I ECO moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "Geïntegreerd",
+    "price": 87.9,
+    "keywords": [
+      "onboard",
+      "CPU",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "MSI B85-G43 Gaming, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 99.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "MSI B85-G43, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 89.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "MSI B85M-E45, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 69.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "MSI H81I, socket 1150 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1150",
+    "price": 74.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "Mini ITX"
+    ]
+  },
+  {
+    "name": "MSI H81M-E33, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 49.99,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "MSI H81M-E34, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 49.99,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI H81M-P32L, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 54.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI H81M-P33, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 48.49,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX",
+      "Retail"
+    ]
+  },
+  {
+    "name": "MSI H97 GAMING 3, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 114.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI H97 PC Mate, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 89.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI H97M-G43, socket 1150 moederbord",
+    "formFactor": "µATX",
+    "socket": "1150",
+    "price": 89.0,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI Z97 GAMING 3, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 134.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z97-G43, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 109.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z97S SLI Krait Edition, socket 1150 moederbord",
+    "formFactor": "ATX",
+    "socket": "1150",
+    "price": 124.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI B150 GAMING M3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 109.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI B150 PC MATE, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 89.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI B150A GAMING PRO, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 117.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI B150I GAMING PRO AC, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 112.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "MSI B150I GAMING PRO, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 92.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "MSI B150M BAZOOKA PLUS              B150, socket 1151 moederbord",
+    "formFactor": "",
+    "socket": "1151",
+    "price": 82.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      ""
+    ]
+  },
+  {
+    "name": "MSI B150M BAZOOKA, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 74.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI B150M ECO, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 74.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI B150M GAMING PRO, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 74.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI B150M MORTAR, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 86.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI B150M NIGHT ELF, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 98.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI B150M PRO-VD, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 68.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI B150M PRO-VDH, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 79.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI B150M PRO-VH, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 69.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI C236A WORKSTATION, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 169.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI C236M WORKSTATION, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 149.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      ""
+    ]
+  },
+  {
+    "name": "MSI H110I PRO, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 76.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "MSI H110M ECO, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 53.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI H110M GAMING, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 76.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI H110M GRENADE                   H110, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 76.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      ""
+    ]
+  },
+  {
+    "name": "MSI H110M PRO-D, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 57.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI H110M PRO-VD, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 59.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI H110M PRO-VH, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 61.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI H170 GAMING M3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 124.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI H170A GAMING PRO, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 137.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI H170A PC MATE, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 109.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI H170I PRO AC, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 129.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "Mini-ITX"
+    ]
+  },
+  {
+    "name": "MSI H170M PRO-DH, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 96.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI H170M PRO-VDH, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 94.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI H170M-A Pro, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 104.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "µATX"
+    ]
+  },
+  {
+    "name": "MSI Z170-A PRO, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 117.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A GAMING M3, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 147.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A GAMING M5, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 174.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A GAMING M7, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 214.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A GAMING M9 ACK, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 399.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A GAMING PRO Carbon, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 144.6,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A KRAIT GAMING 3X, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 149.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A MPOWER GAMING TITANIUM, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 259.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A PC MATE, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 112.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A SLI PLUS, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 142.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A TOMAHAWK AC, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 154.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A TOMAHAWK, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 129.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A XPOWER GAMING TITANIUM, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 299.0,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A-G43 PLUS, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 129.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170A-G45 GAMING, socket 1151 moederbord",
+    "formFactor": "ATX",
+    "socket": "1151",
+    "price": 179.9,
+    "keywords": [
+      "onboard",
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170I GAMING PRO AC, socket 1151 moederbord",
+    "formFactor": "Mini ITX",
+    "socket": "1151",
+    "price": 159.9,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "WLAN",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI Z170M MORTAR, socket 1151 moederbord",
+    "formFactor": "µATX",
+    "socket": "1151",
+    "price": 124.9,
+    "keywords": [
+      "onboard",
+      "2x PCIe x16",
+      "CrossFireX",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX"
+    ]
+  },
+  {
+    "name": "MSI X99A GAMING 7, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 279.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "MSI X99A GAMING 9 ACK, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 449.0,
+    "keywords": [
+      "5x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "MSI X99A GAMING PRO CARBON, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 324.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      ""
+    ]
+  },
+  {
+    "name": "MSI X99A GODLIKE GAMING CARBON, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 599.0,
+    "keywords": [
+      "5x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "WLAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "MSI X99A GODLIKE GAMING, socket 2011-3 moederbord",
+    "formFactor": "E-ATX",
+    "socket": "2011-3",
+    "price": 539.0,
+    "keywords": [
+      "5x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "E-ATX"
+    ]
+  },
+  {
+    "name": "MSI X99A MPOWER, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 274.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "MSI X99A RAIDER, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 219.9,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "MSI X99A SLI                         X99, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 254.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      ""
+    ]
+  },
+  {
+    "name": "MSI X99A SLI Krait Edition, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 269.0,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "MSI X99A SLI PLUS, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 232.9,
+    "keywords": [
+      "4x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      "RAID",
+      "Gb-LAN",
+      "Sound",
+      "ATX",
+      "USB 3.1"
+    ]
+  },
+  {
+    "name": "MSI X99A TOMAHAWK, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 279.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      ""
+    ]
+  },
+  {
+    "name": "MSI X99A WORKSTATION                 X99, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 394.0,
+    "keywords": [
+      "3x PCIe x16",
+      "CrossFireX",
+      "SLI",
+      ""
+    ]
+  },
+  {
+    "name": "MSI X99A XPOWER GAMING TITANIUM, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 439.0,
+    "keywords": [
+      "CrossFireX",
+      "SLI",
+      ""
+    ]
+  },
+  {
+    "name": "Supermicro MBD-X11SAE-M-O, socket 1151 moederbord",
+    "formFactor": "",
+    "socket": "1151",
+    "price": 264.0,
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Supermicro MBD-X9DRW-IF-O, socket 2011 moederbord",
+    "formFactor": "Proprietary",
+    "socket": "2011",
+    "price": 479.0,
+    "keywords": [
+      "onboard",
+      "DUAL",
+      "RAID",
+      "Gb-LAN",
+      "WIO",
+      "Retail"
+    ]
+  },
+  {
+    "name": "Supermicro MBD-X10SRI-F-O, socket 2011-3 moederbord",
+    "formFactor": "ATX",
+    "socket": "2011-3",
+    "price": 389.0,
+    "keywords": [
+      "onboard",
+      "1x PCIe x16",
+      "RAID",
+      "Gb-LAN",
+      "VGA",
+      "ATX"
+    ]
+  }
+]
